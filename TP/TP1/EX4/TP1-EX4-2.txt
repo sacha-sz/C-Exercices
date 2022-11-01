@@ -1,0 +1,5 @@
+L'utilisation de pointeur permet de changer en mémoire les valeurs, si nous avions utiliser un passage par valeur cela aurait été impossible.
+En effet, si nous avions utiliser un passage par valeur, la valeur de la variable aurait été copiée dans la fonction, et la valeur de la variable dans le main n'aurait pas été modifiée.
+
+Le passage par référence est donc plus rapide que le passage par valeur, car il n'y a pas de copie de la variable dans la fonction.
+De plus, il permet de modifier la valeur de la variable en mémoire, ce qui n'est pas possible avec le passage par valeur.

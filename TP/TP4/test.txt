@@ -1,0 +1,14 @@
+La recherche dans un arbre binaire d un noeud ayant une cle particuliere est un
+procede recursif. On commence par examiner la racine. Si sa cle est la cle
+recherchee l algorithme se termine et renvoie la racine. Si elle est strictement
+inferieure alors elle est dans le sous arbre gauche sur lequel on effectue alors
+recursivement la recherche. De meme si la cle recherchee est strictement
+superieure a la cle de la racine la recherche continue dans le sous arbre
+droit. Si on atteint une feuille dont la cle n est pas celle recherchee on sait
+alors que la cle recherchee n appartient a aucun noeud elle ne figure donc pas
+dans l arbre de recherche. On peut comparer l exploration d un arbre binaire de
+recherche avec la recherche par dichotomie qui procede a peu pres de la meme
+maniere sauf qu elle accede directement a chaque element d un tableau au lieu de
+suivre des liens. La difference entre les deux algorithmes est que dans la
+recherche dichotomique on suppose avoir un critere de decoupage de l espace en
+deux parties que l on n a pas dans la recherche dans un arbre.
