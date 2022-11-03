@@ -79,4 +79,4 @@ Ainsi, chaque TP peut être compilé et exécuté indépendamment des autres.
 -   **sacha-sz** - les TP - [sacha-sz](https://github.com/sacha-sz)
 
 ## :bookmark_tabs: - Références
-- **Lien moodle vers le cours** : [UTC-NF16](https://moodle.utc.fr/course/view.php?id=673)
+- **Lien moodle vers le cours**, (nécessite d'être connecté pour y accéder) : [UTC-NF16](https://moodle.utc.fr/course/view.php?id=673)
