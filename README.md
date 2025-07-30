@@ -1,4 +1,4 @@
-# 📚 UTC-NF16 – Travaux Pratiques en C
+# 📚 NF16 – Travaux Pratiques en C
 
 <br/>
 
